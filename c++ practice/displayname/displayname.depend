@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hp\desktop\c++ practice\displayname\main.cpp
+	<iostream>
+
+1604919980 source:c:\users\hp\desktop\c++ practice\displayname\displayname.cpp
+	<iostream>
+
+1604929506 source:c:\users\hp\desktop\example.cpp
+	<iostream>
+
